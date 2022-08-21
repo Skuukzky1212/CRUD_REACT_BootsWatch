@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.errorMsg {
+  font-size: 1rem;
+  margin-top: 10px;
+  color: red;
+}
